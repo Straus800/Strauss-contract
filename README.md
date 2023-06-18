@@ -1,4 +1,4 @@
-# Strauss-contract
+# Strauss-contract 01
 
 Simple solidity Strauss contract example
 
